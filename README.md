@@ -8,7 +8,8 @@
 
 ## What You Need:
 * Python 3 on your computer. [Here](https://www.python.org/downloads/) is one site offering Python 3 downloads. 
-* An Integrated Development Environment (IDE) which supports Python 3
+* An Integrated Development Environment (IDE) which supports Python 3.
+
 Not sure what to do? Try downloading the [Anaconda Distribution](https://www.anaconda.com/products/individual) for Python 3.7, then use Spyder or Jupyter Notebook. 
 
 ## Packages
