@@ -10,7 +10,7 @@
 * Python 3 on your computer. [Here](https://www.python.org/downloads/) is one site offering Python 3 downloads. 
 * An Integrated Development Environment (IDE) which supports Python 3
 * The packages listed below 
-* These files on your computer. Download them using the "Clone or Download" button above and selecting "Download ZIP." You will need to unzip the download before you can open the files on your computer. 
+* These files on your computer. Download them using the green "Clone or Download" button above and selecting "Download ZIP." You will need to unzip the download before you can open the files on your computer. 
 
 Not sure what to do? Try downloading the [Anaconda Distribution](https://www.anaconda.com/products/individual) for Python 3.7, then use Spyder or Jupyter Notebook. 
 
