@@ -1,10 +1,10 @@
 # UTD REU Python 3 Workshop
 
 ## What's In this Repository
-* **README.md** is the file that creates this description
+* **files** contains 3 data files you will use during the workshop
 * **workshop_scripts** contains the Python scripts for this workshop. These are what you will be running. 
 * **workshop_notebooks** contains the same Python scripts as **workshop_scripts**, but they are formatted in a better way for notebook-style IDEs such as Jupyter Notebook. 
-* **files** contains 3 data files you will use during the workshop
+* **README.md** is the file that creates this description
 
 ## What You Need:
 * Python 3 on your computer. [Here](https://www.python.org/downloads/) is one site offering Python 3 downloads. 
@@ -18,6 +18,7 @@ You will need each of the following Python packages:
 * Matplotlib
 * Pandas
 * Astropy
+
 To download each of the package, go to the Command Line (Windows) or Terminal (Mac). Then, type ```pip install package_name``` (where the package name is all lowercase) and press ```enter```. If you are using the Anaconda Distribution, you can also use ```conda install package_name```.
 For example, to download NumPy, use
 ```pip install numpy```
