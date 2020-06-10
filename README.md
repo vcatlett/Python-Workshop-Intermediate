@@ -22,3 +22,4 @@ You will need each of the following Python packages:
 To download each of the package, go to the Command Line (Windows) or Terminal (Mac). Then, type ```pip install package_name``` (where the package name is all lowercase) and press ```enter```. If you are using the Anaconda Distribution, you can also use ```conda install package_name```.
 For example, to download NumPy, use
 ```pip install numpy```
+ Having trouble? Check out this [pip tutorial](https://www.pythonforbeginners.com/basics/python-pip-usage/).
