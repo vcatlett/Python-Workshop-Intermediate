@@ -3,7 +3,7 @@
 ## What You Need:
 * Python 3 on your computer
 * An IDE which supports Python 3
-Not sure what to do? Try downloading the (https://www.anaconda.com/products/individual)[Anaconda Distribution] for Python 3.7 and using Spyder or Jupyter Notebook. 
+Not sure what to do? Try downloading the [Anaconda Distribution](https://www.anaconda.com/products/individual) for Python 3.7 and using Spyder or Jupyter Notebook. 
 
 ## Packages
 You will need each of the following Python packages:
