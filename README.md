@@ -5,6 +5,7 @@
 * **workshop_scripts** contains the Python scripts for this workshop. These are what you will be running. 
 * **workshop_notebooks** contains the same Python scripts as **workshop_scripts**, but they are formatted in a better way for notebook-style IDEs such as Jupyter Notebook. 
 * **README.md** is the file that creates this description
+* **Workshop_Slides.pdf** contains the slides for the 6/10/2020 workshop
 
 ## What You Need:
 * Python 3 on your computer. [Here](https://www.python.org/downloads/) is one site offering Python 3 downloads. 
