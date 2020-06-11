@@ -1,4 +1,4 @@
-# UTD REU Python 3 Workshop
+# Python 3 Workshop
 
 ## What's In this Repository
 * **files** contains 3 data files you will use during the workshop
