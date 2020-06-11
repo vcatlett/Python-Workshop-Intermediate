@@ -21,7 +21,7 @@ You will need each of the following Python packages:
 * Pandas
 * Astropy
 
-To download each of the packages, go to the **Command Prompt** (Windows) or **Terminal** (Mac) app. Then, type ```pip install package_name``` (where the package name is all lowercase) and press ```enter```. If you are using the Anaconda Distribution, you can also use ```conda install package_name```.
+To download each of the packages, go to the **Command Prompt** (Windows) or **Terminal** (Mac) app. Then, type ```pip install package_name``` (where the package name is all lowercase) and press ```enter```. If you are using the Anaconda Distribution, you can also use ```conda install package_name```. [Here](https://www.anaconda.com/blog/understanding-conda-and-pip#:~:text=This%20highlights%20a%20key%20difference,downloading%20and%20running%20an%20installer.) is a good description of ```pip``` and ```conda```.
 
 For example, to download NumPy, use ```pip install numpy```.
 
