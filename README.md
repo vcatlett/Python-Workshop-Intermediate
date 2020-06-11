@@ -1,6 +1,6 @@
 # Python 3 Workshop
 
-## What's In this Repository
+## What's In This Repository
 * **files** contains 3 data files you will use during the workshop
 * **workshop_scripts** contains the Python scripts for this workshop. These are what you will be running. 
 * **workshop_notebooks** contains the same Python scripts as **workshop_scripts**, but they are formatted in a better way for notebook-style IDEs such as Jupyter Notebook. 
