@@ -25,4 +25,4 @@ To download each of the packages, go to the **Command Prompt** (Windows) or **Te
 
 For example, to download NumPy, use ```pip install numpy```.
 
-Having trouble? Check out this [pip tutorial](https://realpython.com/what-is-pip/). If you are using the Anaconda Distribution, you should also be aware of the ```conda``` installer, which acts a lot like ```pip```. The linked pip tutorial briefly discusses Conda. [Here](https://www.anaconda.com/blog/understanding-conda-and-pip#:~:text=This%20highlights%20a%20key%20difference,downloading%20and%20running%20an%20installer.) is another good description of ```pip``` and ```conda```.
+Having trouble? Check out this [pip tutorial](https://realpython.com/what-is-pip/). If you are using the Anaconda Distribution, you should also be aware of the ```conda``` installer, which acts a lot like ```pip```. The linked pip tutorial briefly discusses ```conda```. [Here](https://www.anaconda.com/blog/understanding-conda-and-pip#:~:text=This%20highlights%20a%20key%20difference,downloading%20and%20running%20an%20installer.) is another good description of ```pip``` and ```conda```.
