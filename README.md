@@ -1,4 +1,4 @@
-# Python 3 Workshop
+# Intermediate Python 3 Workshop
 
 ## What's In This Repository
 * **files** contains 3 data files you will use during the workshop
