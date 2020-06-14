@@ -1,4 +1,5 @@
 # Intermediate Python 3 Workshop
+Created by [Victoria Catlett](https://www.linkedin.com/in/victoria-catlett/)
 
 ## What's In This Repository
 * **files** contains 3 data files you will use during the workshop
