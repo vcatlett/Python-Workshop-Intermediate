@@ -1,5 +1,5 @@
 '''
-Created by Victoria Catlett for the UTD REU Python Workshop
+Created by Victoria Catlett for the Intermediate Python 3 Workshop
 '''
 ###############################################################################
 ############# Import what you need from packages at the top ###################

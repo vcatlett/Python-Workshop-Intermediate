@@ -1,5 +1,5 @@
 '''
-Created by Victoria Catlett for the UTD REU Python Workshop
+Created by Victoria Catlett for the Intermediate Python 3 Workshop
 '''
 ###############################################################################
 ##### Import the script like a package. It must be in the same directory. #####
